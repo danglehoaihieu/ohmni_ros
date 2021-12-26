@@ -1,6 +1,6 @@
 sudo apt-get install libsdl-image1.2-dev
 sudo apt-get install libsdl-dev
 
-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
+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
 
 
